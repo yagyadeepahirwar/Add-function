@@ -7,6 +7,13 @@ void add(int a,int b)
   cout<<a+b;
 }
 
+void fac(int n)
+{
+  if(n==0)
+    return 1;
+  return (n*fac(n-1));
+}
+
 int main
 {
 // call your function
