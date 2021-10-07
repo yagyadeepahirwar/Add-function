@@ -24,8 +24,4 @@ int main
 {
   return (a+b);
 }
- void fac(int a,b)
-{
-  return (a-b);
-}
 
