@@ -22,5 +22,6 @@ int main
 }
  void sum(int a,b)
 {
-  return (a*b(a+a));
+  return (a+b);
 }
+
