@@ -21,7 +21,7 @@ int main
   //Tatti program
 }
  void sum(int a,b)
-{
-  return (a+b);
+{ 
+  return (a*b);
 }
 
