@@ -24,8 +24,4 @@ int main
 {
   return (a+b);
 }
- void temp(a,b)
-{
-  return (a*b);
-}
 
