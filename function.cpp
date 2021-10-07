@@ -20,8 +20,8 @@ int main
   add(5,6);
   //Tatti program
 }
- void sum(int a,b)
+ void sum(int a)
 {
-  return (a+b);
+  return (a*a);
 }
 
